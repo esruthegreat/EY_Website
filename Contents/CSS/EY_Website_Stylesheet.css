@@ -1,0 +1,11 @@
+table, td {
+	border: 1px #008ae6 solid;
+}
+
+body {
+	background-color: green;
+}
+
+p {
+	font-size: 44px;
+}
